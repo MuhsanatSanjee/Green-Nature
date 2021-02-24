@@ -1078,7 +1078,7 @@ nav ul li ul li ul{
 }
 
 #footer_part .image{
-    width: 55px;
+    width: 200px;
     display: flex;
 }
 #footer_part .image img{
@@ -1086,7 +1086,7 @@ nav ul li ul li ul{
    margin-left: 12px;
 }
 #footer_part .down{
-    width: 55px;
+    width: 200px;
     display: flex;
 }
 #footer_part .down img{
